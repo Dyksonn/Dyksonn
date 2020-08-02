@@ -5,7 +5,7 @@ Eu sou Dykson Santos, Sou Desenvolvedor Mobile <img src="https://media.giphy.com
 - 🚀 Meus queridinhos: JavaScript, ReactJS, React Native e NodeJs
 - 📣 Se eu tenho 9 horas para cortar uma árvore, passarei 8 horas afiando meu machado...
 
-[![Instagram Badge](https://img.shields.io/badge/-Follow%20me-6633cc?style=flat-square&labelColor=4287f5&logo=instagram&logoColor=white&link=https://www.instagram.com/dyksonn/)](https://www.instagram.com/dyksonn/) 
+[![Instagram Badge](https://img.shields.io/badge/-Follow%20me-4287f5?style=flat-square&labelColor=4287f5&logo=instagram&logoColor=white&link=https://www.instagram.com/dyksonn/)](https://www.instagram.com/dyksonn/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dykson-santos-410740187/)](https://www.linkedin.com/in/dykson-santos-410740187/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&link=https://whats.link/dykson)](https://whats.link/dykson)
 [![Outlook Badge](https://img.shields.io/badge/-dyksonn_marques@hotmail.com-6633cc?style=flat-square&logo=Windows&logoColor=white&link=mailto:dyksonn_marques@hotmail.com)](mailto:dyksonn_marques@hotmail.com)
