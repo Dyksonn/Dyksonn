@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Useful links: 
-[👉🏻 Linkedin](https://www.linkedin.com/in/dykson-santos-410740187/) [👉🏻 Instagram](https://www.instagram.com/dyksonn/)
+[👉🏻 Linkedin](https://www.linkedin.com/in/dykson-santos-410740187/) [👉🏻 Instagram](https://www.instagram.com/dyksvm/)
 
 -->
