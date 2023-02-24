@@ -1,30 +1,35 @@
-## Olá, Tudo bem? 👋🏻 
+<img align="right" alt="HTML" height="300" width="300" src="https://user-images.githubusercontent.com/44515719/221062890-fb93006b-cc86-46d1-b312-6eaa29ca968c.png"> 
 
-Eu sou Dykson Santos, Sou Desenvolvedor Mobile <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" width="32px">
+# Hi, I'm Dykson 👋
 
-- 🚀 Meus queridinhos: JavaScript, ReactJS, React Native e NodeJs
-- 📣 Se eu tenho 9 horas para cortar uma árvore, passarei 8 horas afiando meu machado...
+## Mobile Development 
+<div>
+<a href="https://instagram.com/dyksvm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:dykson.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dykson-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-[![Instagram Badge](https://img.shields.io/badge/-Follow%20me-4287f5?style=flat-square&labelColor=4287f5&logo=instagram&logoColor=white&link=https://www.instagram.com/dyksonn/)](https://www.instagram.com/dyksonn/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4287f5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dykson-santos-410740187/)](https://www.linkedin.com/in/dykson-santos-410740187/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4287f5?style=flat-square&logo=Whatsapp&logoColor=white&link=https://whats.link/dykson)](https://whats.link/dykson)
-[![Outlook Badge](https://img.shields.io/badge/-dyksonn_marques@hotmail.com-4287f5?style=flat-square&logo=Windows&logoColor=white&link=mailto:dyksonn_marques@hotmail.com)](mailto:dyksonn_marques@hotmail.com)
+# 💫 About Me:
+- ### 🔭 I’m currently working on TradeUp and SmartLoad
+- ### 🌱 I’m currently learning Flutter, Kotlin
+- ### 💪 Advanced React Native Experience
+- ### ⚡ My free time love playing video games, watching movies and series. I love anime and I like football
 
-<!--
-**Dykson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal blog with Gatsby, React, GraphQL and Netlify 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
-### Useful links: 
-[👉🏻 Linkedin](https://www.linkedin.com/in/dykson-santos-410740187/) [👉🏻 Instagram](https://www.instagram.com/dyksvm/)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dyksonn&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dyksonn&theme=github-dark-blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyksonn&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
--->
+### ✍️ Dev Dykson
+<div>
+  <span style="color: white;">"If I have nine hours to cut down a tree, I'll spend eight hours sharpening my axe..."</span>
+</div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
